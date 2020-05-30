@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_savings">Ersparnis: ca. %1$s€</string>
+    <string name="tab_text_1">Verlauf</string>
+    <string name="tab_text_2">Kategorien</string>
+    <string name="search_hint">Suche</string>
+    <string name="favs_hint">Favoriten</string>
+    <string name="user_location_permission_not_granted">Standortzugriff nicht erlaubt</string>
+    <string name="feature_bar_title">Bar</string>
+    <string name="feature_fitness_title">Fitness</string>
+    <string name="feature_recreation_title">Wellness</string>
+    <string name="feature_restaurant_title">Restaurant</string>
+    <string name="feature_special_title">Spezial</string>
+    <string name="feature_theatre_title">Theater</string>
+    <string name="dialog_access_token_hint">Zugangscode …</string>
+    <string name="title_login">Bitte geben Sie Ihren MapBox-Zugangscode ein.</string>
+</resources>

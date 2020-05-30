@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false" tools:override="true">D4F</string>
+
+    <string name="shared_prefs_key" translatable="false">d4f.prefs</string>
+    <string name="mapbox_access_token_key" translatable="false">mapbox_access_token</string>
+    <string name="sp_key_last_update" translatable="false">last_update</string>
+
+    <string name="dialog_access_token_desc" translatable="false">If you do not own one, please create an account on the website: https://account.mapbox.com/auth/signin/?route-to=%22https://account.mapbox.com/access-tokens/.\n\nThen copy your access token and paste it in the input field below.</string>
+    <string name="dialog_access_token_hint">Access token …</string>
+
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="label_savings">Savings: ca. %1$s€</string>
+    <string name="title_activity_search" translatable="false">SearchActivity</string>
+    <string name="tab_text_1">History</string>
+    <string name="tab_text_2">Categories</string>
+    <string name="search_hint">Search</string>
+    <string name="favs_hint">Favorites</string>
+    <string name="user_location_permission_not_granted">Location permissions not granted</string>
+
+    <string name="feature_restaurant_title">Restaurant</string>
+    <string name="feature_fitness_title">Fitness</string>
+    <string name="feature_recreation_title">Wellness</string>
+    <string name="feature_special_title">Special</string>
+    <string name="feature_bar_title">Bar</string>
+    <string name="feature_theatre_title">Theatre</string>
+    <string name="title_login">Please enter your Mapbox access token.</string>
+
+</resources>
