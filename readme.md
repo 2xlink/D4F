@@ -1,6 +1,6 @@
 # D4F: An Inofficial Dresden For Friends App
 
-D4F is an companion app for https://www.dresdenforfriends.de/. The goal is to offer a fast, functional and efficient alternative to the website. This app is currently under development.
+D4F is an companion app for [Dresden for Friends](https://www.dresdenforfriends.de/), with it's goal being to offer a fast, functional and efficient alternative to the website. This app is currently under development.
 
 ![image4755](https://user-images.githubusercontent.com/8763936/83331176-ce67f380-a294-11ea-914e-02e83c7a5010.png)
 
