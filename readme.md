@@ -15,7 +15,7 @@ D4F is an companion app for [Dresden for Friends](https://www.dresdenforfriends.
 - [ ] Possibilitity to search for specific offers
 - [ ] Favorites list
 
-🌠 Plans for the far far future:
+🌠 Plans for the distant future:
 
 - [ ] Display notifications for nearby offers
 - [ ] Extract validity days of offers
